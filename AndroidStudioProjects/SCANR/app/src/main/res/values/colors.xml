@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="buttonColor">#ffffff</color>
+    <color name="colorPrimaryDark">#cc0d0a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="submenuColor">#cc0d0a</color>
+    <color name="submenuWhite">#ffffff</color>
+    <color name="submenuGreen">#11a420</color>
+</resources>
