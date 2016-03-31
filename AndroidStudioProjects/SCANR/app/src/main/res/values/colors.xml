@@ -5,6 +5,5 @@
     <color name="colorPrimaryDark">#cc0d0a</color>
     <color name="colorAccent">#FF4081</color>
     <color name="submenuColor">#cc0d0a</color>
-    <color name="submenuWhite">#ffffff</color>
-    <color name="submenuGreen">#11a420</color>
+    <color name="white">#ffffff</color>
 </resources>
